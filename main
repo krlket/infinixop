@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://github.com/Hosvile/InfiniX/releases/latest/download/main.lua",true))()
+
+--InfiniX Discord: https://discord.com/invite/sNMVztBw2d
